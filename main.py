@@ -1,5 +1,4 @@
-print(2)
-
-print(23 + 2)
+from ignore.api import key
 
 
+print(key)
